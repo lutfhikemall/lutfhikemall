@@ -23,7 +23,7 @@
 ![Vite JS](https://img.shields.io/badge/vite-%231B1B23?style=for-the-badge&logo=vite&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring-boot?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=Laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23777CB4?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/material%20UI-blue?style=for-the-badge&logo=material-design&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
